@@ -1,4 +1,5 @@
 #include "DxLib.h"
+#include <cassert>
 #include "SceneMain.h"
 
 SceneMain::SceneMain()

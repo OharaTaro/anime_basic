@@ -1,4 +1,5 @@
 #include "DxLib.h"
+#include <cassert>
 #include "game.h"
 #include "player.h"
 
