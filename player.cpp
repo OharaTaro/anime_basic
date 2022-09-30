@@ -12,6 +12,7 @@ namespace
 
 Player::Player()
 {
+	// ‰Šú‰»
 	m_handle = -1;
 }
 
